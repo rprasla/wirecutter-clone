@@ -13,9 +13,9 @@ function App() {
   return (
     <Router>
       <CategoryProvider>
-        <div className="flex flex-col h-screen">
+        <div className="flex flex-col min-h-screen">
           <Header></Header>
-          <main className="flex-grow overflow-auto">
+          <main className="flex-grow">
             <Routes>
               <Route path="/" element={<Wirecutter />} />
               <Route path="/reviews" element={<Reviews />} />
@@ -24,8 +24,9 @@ function App() {
               <Route path="*" element={<NotFound />} />
             </Routes>
           </main>
+
+          <Footer />
         </div>
-        <Footer />
       </CategoryProvider>
     </Router>
   );
