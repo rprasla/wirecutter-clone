@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.clip-quarter {
+  clip-path: inset(0 75% 0 0); /* Cuts 75% from the right side */
+}

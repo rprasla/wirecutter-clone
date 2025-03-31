@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple Macbook Pro",
+      "category": "Laptop",
+      "price": 1434.99,
+      "rating": 4.7,
+      "badge": "Discounted",
+      "description": "Apple 2024 MacBook Pro Laptop with M4 chip with 10 core CPU and 10 core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Space Black",
+      "pros": ["SUPERCHARGED BY M4", "Lorem Ipsum Doler Mi"],
+      "cons": ["Expensive"],
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2025/03/BEST-MACBOOKS-2048px-hero-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "#"
+        },
+        {
+          "name": "Brand Website",
+          "url": "#"
+        }
+      ],
+      "averageRating": 2.9411764705882355,
+      "totalReviews": 17
+    },
+    {
+      "id": "2",
+      "name": "Sony WH-1000XM4 Headphones",
+      "category": "Audio",
+      "price": 349.99,
+      "rating": 4.7,
+      "badge": "New",
+      "description": "Industry-leading noise cancellation with premium sound quality.",
+      "pros": [
+        "Exceptional noise cancellation",
+        "Comfortable fit",
+        "Great battery life"
+      ],
+      "cons": [
+        "Expensive",
+        "Touch controls can be finicky",
+        "Large carrying case"
+      ],
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/06/gaming-headset-2048px-1959-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "#"
+        },
+        {
+          "name": "Brand Website",
+          "url": "#"
+        }
+      ],
+      "averageRating": null,
+      "totalReviews": null
+    },
+    {
+      "id": "3",
+      "name": "Amazon Kindle Paperwhite",
+      "category": "E-Readers",
+      "price": 139.99,
+      "rating": 4.6,
+      "badge": "Exclusive",
+      "description": "Waterproof e-reader with adjustable warm light and long battery life.",
+      "pros": [
+        "Crisp, glare-free display",
+        "Waterproof design",
+        "Weeks-long battery"
+      ],
+      "cons": [
+        "No page turn buttons",
+        "Ads on base model",
+        "Limited color options"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/I/61jur44t7PL._AC_SL1000_.jpg",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "#"
+        },
+        {
+          "name": "Brand Website",
+          "url": "#"
+        }
+      ],
+      "averageRating": 4,
+      "totalReviews": 1
+    },
+    {
+      "id": "4",
+      "name": "Samsung 55\" QLED 4K Smart TV",
+      "category": "TVs",
+      "price": 799.99,
+      "rating": 4.5,
+      "badge": "Limited",
+      "description": "Vibrant QLED display with smart features and excellent color accuracy.",
+      "pros": [
+        "Stunning picture quality",
+        "Great smart features",
+        "Minimal screen glare"
+      ],
+      "cons": ["Expensive", "Bulky design", "Complex menu system"],
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/09/lcdledtv-2048px-tclQM8-2109-3x2-1.jpg?width=1260&quality=60&crop=3:2&auto=webp",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "#"
+        },
+        {
+          "name": "Brand Website",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Apple AirPods Pro",
+      "category": "Audio",
+      "price": 249.99,
+      "rating": 4.7,
+      "badge": "Limited",
+      "description": "Noise-cancelling wireless earbuds with adaptive transparency mode.",
+      "pros": [
+        "Excellent noise cancellation",
+        "Comfortable fit",
+        "Great sound quality"
+      ],
+      "cons": [
+        "Expensive",
+        "Battery life could be better",
+        "Requires Apple ecosystem"
+      ],
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/09/FI-APPLE-AIRPODS-4-2048px-6136-3x2-1.jpg?width=1260&quality=60&crop=3:2&auto=webp",
+      "buyLinks": [
+        {
+          "name": "Amazon",
+          "url": "#"
+        },
+        {
+          "name": "Brand Website",
+          "url": "#"
+        }
+      ],
+      "averageRating": 4,
+      "totalReviews": 1
+    }
+  ],
+  "reviews": [
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/06/ipadprokeyboardcases-2048px-3059-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best iPad Pro Keyboard Cases",
+      "category": "Accessories",
+      "date": "Updated March 4, 2025",
+      "author": "by Roderick Scott and Nick Guy",
+      "brief": "If you want to turn your iPad Pro into a laptop, you need a keyboard case. Our favorite is much cheaper than Apple’s option."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/09/wirelesshdmi-2048px-1941-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Wireless HDMI Video Transmitter",
+      "category": "Accessories",
+      "date": "Updated March 3, 2025",
+      "author": "by Adrienne Maxwell",
+      "brief": "If you want to send HDMI signals wirelessly instead of through cables, the Nyrius Aries Home+ performs reliably and has more features than the competition."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/12/drawingtablets-2048px-6115-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Drawing Tablets",
+      "date": "Updated February 4, 2025",
+      "category": "Accessories",
+      "author": "by Arthur Gies",
+      "brief": "Drawing tablets are nearly indispensable for creating art on a PC or laptop, and models such as the Huion Inspiroy 2 M are great for beginners and veteran artists alike."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/11/wirelesschargingbanks-2048px-9251-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Wireless Portable Chargers and Power Banks",
+      "date": "Updated February 4, 2025",
+      "category": "Accessories",
+      "author": "by Sarah Witman",
+      "brief": "ESR’s HaloLock Kickstand MagSafe Battery Pack can wirelessly charge most phones up to three times, and its built-in kickstand is among the sturdiest we’ve seen."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/04/qiwirelesschargers-2048px-1894-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Qi Wireless Charger for iPhone and Android Phones",
+      "date": "Updated March 7, 2025",
+      "category": "Accessories",
+      "author": "by Sarah Witman",
+      "brief": "The Belkin BoostCharge Pro is your best bet for charging a single device wirelessly. It has MagSafe capabilities, a long cord, and a handy built-in stand."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2025/01/BEST-CAR-PHONE-MOUNTS-2048px-6021-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best iPad Pro Keyboard Cases",
+      "date": "Updated March 6, 2025",
+      "category": "Accessories",
+      "author": "by Roderick Scott and Nick Guy",
+      "brief": "No matter where you want to mount your phone in your car, we have plenty of options to keep it safely in view while you’re driving."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/06/ipadprokeyboardcases-2048px-3059-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best iPad Pro Keyboard Cases",
+      "category": "Router",
+      "date": "Updated March 4, 2025",
+      "author": "by Roderick Scott and Nick Guy",
+      "brief": "If you want to turn your iPad Pro into a laptop, you need a keyboard case. Our favorite is much cheaper than Apple’s option."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/09/wirelesshdmi-2048px-1941-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Wireless HDMI Video Transmitter",
+      "category": "Router",
+      "date": "Updated March 3, 2025",
+      "author": "by Adrienne Maxwell",
+      "brief": "If you want to send HDMI signals wirelessly instead of through cables, the Nyrius Aries Home+ performs reliably and has more features than the competition."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/12/drawingtablets-2048px-6115-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Drawing Tablets",
+      "date": "Updated February 4, 2025",
+      "category": "Headphones",
+      "author": "by Arthur Gies",
+      "brief": "Drawing tablets are nearly indispensable for creating art on a PC or laptop, and models such as the Huion Inspiroy 2 M are great for beginners and veteran artists alike."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/11/wirelesschargingbanks-2048px-9251-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Wireless Portable Chargers and Power Banks",
+      "date": "Updated February 4, 2025",
+      "category": "Headphones",
+      "author": "by Sarah Witman",
+      "brief": "ESR’s HaloLock Kickstand MagSafe Battery Pack can wirelessly charge most phones up to three times, and its built-in kickstand is among the sturdiest we’ve seen."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2024/04/qiwirelesschargers-2048px-1894-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best Qi Wireless Charger for iPhone and Android Phones",
+      "date": "Updated March 7, 2025",
+      "category": "Laptop",
+      "author": "by Sarah Witman",
+      "brief": "The Belkin BoostCharge Pro is your best bet for charging a single device wirelessly. It has MagSafe capabilities, a long cord, and a handy built-in stand."
+    },
+    {
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2025/01/BEST-CAR-PHONE-MOUNTS-2048px-6021-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "The Best iPad Pro Keyboard Cases",
+      "date": "Updated March 6, 2025",
+      "category": "Laptop",
+      "author": "by Roderick Scott and Nick Guy",
+      "brief": "No matter where you want to mount your phone in your car, we have plenty of options to keep it safely in view while you’re driving."
+    }
+  ],
+  "deals": [
+    {
+      "id": 1,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/11/wirelesschargingbanks-2048px-9251-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "Smartphone XYZ",
+      "description": "The best budget smartphone with great features.",
+      "price": "$299.99",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2025/03/BEST-MACBOOKS-2048px-hero-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "Laptop ABC",
+      "description": "Powerful laptop for work and play.",
+      "price": "$799.99",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2024/10/runningheadphones-2048px-09244-3x2-1.jpg?auto=webp&quality=60&crop=3:2&width=308&dpr=1.5",
+      "title": "Wireless Headphones",
+      "description": "Comfortable and high-quality sound for music lovers.",
+      "price": "$129.99",
+      "link": "#"
+    }
+  ]
+}
