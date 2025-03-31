@@ -13,14 +13,18 @@ function App() {
   return (
     <Router>
       <CategoryProvider>
-        <Header></Header>
-        <Routes>
-          <Route path="/" element={<Wirecutter />} />
-          <Route path="/reviews" element={<Reviews />} />
-          <Route path="/bestpicks" element={<BestPicks />} />
-          <Route path="/product/:id" element={<ProductDetail />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+        <div className="flex flex-col min-h-screen">
+          <Header></Header>
+          <main className="flex-grow">
+            <Routes>
+              <Route path="/" element={<Wirecutter />} />
+              <Route path="/reviews" element={<Reviews />} />
+              <Route path="/bestpicks" element={<BestPicks />} />
+              <Route path="/product/:id" element={<ProductDetail />} />
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </main>
+        </div>
         <Footer />
       </CategoryProvider>
     </Router>
