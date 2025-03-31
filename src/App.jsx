@@ -15,7 +15,7 @@ function App() {
       <CategoryProvider>
         <div className="flex flex-col min-h-screen">
           <Header></Header>
-          <main className="flex-grow">
+          <main className="flex-grow overflow-auto">
             <Routes>
               <Route path="/" element={<Wirecutter />} />
               <Route path="/reviews" element={<Reviews />} />
